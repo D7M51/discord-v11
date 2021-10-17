@@ -15,3 +15,6 @@ Now click add buildpack and add link -> *https://github.com/D7M51/discord-v11*
 Then save changes, and restart all dynos!
 ### Then what?
 Kaboom! your heruko runs with discordjs-v11 and no channel staging problems!
+
+
+#### Tip: Don't use **index.js** ❌ use **main.js** ✅
