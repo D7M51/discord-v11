@@ -11,7 +11,7 @@ You can use discord.js-v11 in Heroku by changing the build pass!
 ### Before adding discord-v11 to it!
 You need to remove **heroku/nodejs** or it won't work!
 ### After removeing **heruko/nodejs**
-Now click add buildpack and add link -> *https://github.com/D7M51/discord-v11* 
+Now click add buildpack and add link -> *https://github.com/D7M51/discord-v11/tree/main* 
 Then save changes, and restart all dynos!
 ### Then what?
 Kaboom! your heruko runs with discordjs-v11 and no channel staging problems!
